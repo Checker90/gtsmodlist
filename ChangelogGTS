@@ -1,0 +1,61 @@
+no real changelog yet
+
+![banner](BANNER-IMAGE-URL-HERE)
+
+# Changelog
+
+## Version History
+
+<details>
+
+* [Version 0.9.9.6](#version-0996)
+* [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 0.9.9.6  
+**(Release date: 2025-XX-XX)**  
+**Save-game safe**
+
+<details>
+
+### Fixed
+* General stability improvements.
+* Minor issues reported in 0.9.9.5.
+
+### Updated
+* Optimized data structure for smoother installation.
+* Additional tweaks to ensure compatibility across all supported languages.
+
+### Added
+* New updated main file (0.9.9.6d) with corrected paths.
+
+### Removed
+* Old test files that were causing potential conflicts.
+
+</details>
+
+---
+
+## Version 0.9.9.5  
+**(Release date: 2025-XX-XX)**  
+**Save-game safe**
+
+<details>
+
+### Fixed
+* Minor script errors.
+* Several placement issues in worldspace edits.
+
+### Updated
+* Improved performance and memory handling across multiple modules.
+
+### Added
+* Internal testing optimizations.
+
+### Removed
+* Legacy leftover data from previous revisions.
+
+</details>
