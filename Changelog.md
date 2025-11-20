@@ -47,10 +47,18 @@
 * Various scripts, meshes, and geometries have been moved to loose files for better stability and safety.
 * Minor improvements and internal fixes to the installer for smoother setup and update handling.
 
-### Added
-* Internal testing optimizations.
+### Added Mods
+* Mossy Plateau
+* Snowy Volcanic Biome
+* Icy Moon – Porrima IV-d
+* Real Frozen Mountains
+* Village Home
+* Veer’s Hoot and Toot Bar – A Village Home Extension
+* SMR Replacers – Shadowpryo’s Donna and Tony
+* Luxor’s Galaxy
 
-### Removed
-* Legacy leftover data from previous revisions.
+### Removed Mods
+* Liga of Followers
+*Avontech Munitions V2
 
 </details>
