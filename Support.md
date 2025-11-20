@@ -11,3 +11,5 @@ You can join the community at any time to:
 Join the Discord here: [Click to join Discord](https://discord.com/invite/K2wxuVfeaF)
 
 We welcome everyone and are happy to assist you anytime!
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
