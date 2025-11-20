@@ -40,12 +40,12 @@
 <details>
 
 ### Changelog
-*Liga of Followers has been replaced with a simpler multi-follower system.
-*Stroud Premium Edition – fixed voice-related issues.
-*Ammo HUD is now unpacked into loose files to prevent conflicts or overwrites.
-*Avontech Munitions V2 was removed due to compatibility issues with the current list. The mod itself is fine and can be installed manually if desired.
-*Various scripts, meshes, and geometries have been moved to loose files for better stability and safety.
-*Minor improvements and internal fixes to the installer for smoother setup and update handling.
+* Liga of Followers has been replaced with a simpler multi-follower system.
+* Stroud Premium Edition – fixed voice-related issues.
+* Ammo HUD is now unpacked into loose files to prevent conflicts or overwrites.
+* Avontech Munitions V2 was removed due to compatibility issues with the current list. The mod itself is fine and can be installed manually if desired.
+* Various scripts, meshes, and geometries have been moved to loose files for better stability and safety.
+* Minor improvements and internal fixes to the installer for smoother setup and update handling.
 
 ### Added
 * Internal testing optimizations.
