@@ -1,0 +1,44 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Gate to Stars",
+    "description": "GATE TO STARS is a carefully crafted, fully integrated collection designed to unlock Starfield’s true potential. Every element has been thoughtfully refined — performance, visuals, gameplay, and immersion, creating a seamless, stable, and deeply engaging experience.",
+    "author": "Checker90",
+    "maintainers": [
+      "github/Checker90"
+      "github/Ry-Squid"
+      "github/AwakenOdyssey"
+    ],
+    "game": "Starfield",
+    "tags": [
+      "Total Overhaul",
+      "DLC Required",
+      "Hardcore",
+      "Official",
+      "Steam",
+      "Survival",
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Checker90/gtsmodlist/refs/heads/main/GATE%20TO%20STARS.WEBP",
+      "readme": "https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Gate%20to%20Stars.wabbajack_46cc544c-8582-4d54-91e6-dbcd23365ace,
+      "machineURL": "GateToStars",
+      "discordURL": "https://discord.com/invite/K2wxuVfeaF"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "azjhxBsspBM=",
+      "Size": 76664014,
+      "NumberOfArchives": 879,
+      "SizeOfArchives": 192839436455,
+      "NumberOfInstalledFiles": 27640,
+      "SizeOfInstalledFiles": 202653165330
+    },
+    "version": "0.9.9"
+  }
+]
+
