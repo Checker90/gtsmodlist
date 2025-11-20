@@ -10,31 +10,91 @@
 ---
 
 ## Version 0.9.9.6  
-**(Release date: 2025-XX-XX)**  
+**(Release date: 2025-11-17)**  
 **Save-game safe**
 
 <details>
 
-### Fixed
-* General stability improvements.
-* Minor issues reported in 0.9.9.5.
+### Changelog
+* Added Border Regions Unlock – you can now explore over 10 km away from your ship.
+* You can now talk to any NPC in crowds and ask them for directions.
+* Dark Ship Interiors moved to optional mods (under the separator). Disable it if you prefer brighter interiors.
+* The galaxy appearance has been restored to the default look. If you want the previous version, disable Real Milky Way Galaxy in the optional section.
+* Added a killcam, fully functional and placed in optional mods. Disable if you don’t want it.
+* Show Read Books removed due to a bug preventing books and slates from being read directly.
+* Improved camera behavior while docked.
+* Many mods have been patched and fixed for better stability.
+* New Atlantis performance improved.
+* Added a fix for a Lodge-related quest issue that could block progression.
+* Walter should now appear correctly for all players.
+* Added a fix to ensure crowds consistently spawn in specific locations.
+* if they don’t appear: move far away from the area and wait 48 in-game hours.
+* Added many new easter eggs. More will be added in the future.
+* Numerous Quality of Life custom tweaks patched and integrated into the list.
+* Partial fixes for quest-related bugs affecting progression in Neon.
+* Added several economy tweaks.
+* Creation Placeholders removed from MO2.
 
-### Updated
-* Optimized data structure for smoother installation.
-* Additional tweaks to ensure compatibility across all supported languages.
+### Added Mods
+* Luxor's Green Grass
+* Rabbit's REAL LIGHTS – Akila City
+* Starvegas – Cinematic Killcam
+* Conner's Ordinary Conversations – Seek Out Stores
+* Conner's Ordinary Conversations – Sale of Substances
+* Enhance Removes Bounties
+* HD Med Packs
+* Northern Lights – Aurora Borealis
+* Improved Engine Trail Glow
+* Border Regions Unlock
+* NEON VAINS
+* Configurable Spacesuit Auto-Hide
+* Job Gone Wrong Expanded
+* Droppable Credits
+* Show Star Names
+* Bio-Tech Armor
+* Grav Jump Component UI Overhaul
+* Starfield Book UI Overhaul
+* Takeoff Menu Recolor (Multiple Versions)
+* Real Milky Way Galaxy
+* Immersive Wait and Sleep Menu
+* Neurostrikes Improved
+* Kreet Pirate Items and Resources
+* Ammo Framework
+* ARX-15
+* Beowulf Mag Size Fix
+* Better Death Physics
+* Better Sleep – Well Rested & Lovers Embrace
+* Beyond the Stars – Nice Vending Machines
+* Bottle Labels Overhaul
+* Brighter Ship Interiors
+* Bullet Hole Impact v3.0
+* CC’s HD Astral Lounge Logo & Decals
+* Clear Glass for Bookshelves
+* Enhanced Lights and FX
+* Lodge Bar Kitchen
+* HD Scorch Marks
+* Herald’s Rest – Expanded
+* Juno for All
+* Landing Animation Reloaded (LAR) – Patched
+* Neon Signage Variety
+* New Landmark Quests – Cut Content Restored
+* No Console Spam
+* The Dome in New Atlantis
+* Bunk Assignment Clipboards
+* Blades of the Immaterium
 
-### Added
-* New updated main file (0.9.9.6d) with corrected paths.
-
-### Removed
-* Old test files that were causing potential conflicts.
+### Removed Mods
+* Smarter Spacesuit Auto-Hide
+* Chunks – Unhinged
+* Starfield Community Patch
+* Show read Books 
 
 </details>
 
 ---
 
 ## Version 0.9.9.5  
-**(Release date: 2025-XX-XX)**  
+**(Release date: 2025-10-17)**  
 **Save-game safe**
 
 <details>
