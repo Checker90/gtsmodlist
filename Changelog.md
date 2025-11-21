@@ -12,7 +12,7 @@
 ## Version 0.9.9.6  
 **(Release date: 2025-11-17)**  
 **Save-game safe**
-**Game version 1.15.222**
+-Game version 1.15.222-
 
 <details>
 
