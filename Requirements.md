@@ -32,3 +32,5 @@ The list includes custom profile folders, each containing pre-made StarfieldCust
 
 Start the game through Steam one time, go to the main menu, then exit.<br>
 After that, you will not launch Starfield through Steam anymore, MO2 will handle it.<br>
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
