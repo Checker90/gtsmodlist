@@ -12,5 +12,6 @@ Join the Discord here: [Click to join Discord](https://discord.com/invite/K2wxuV
 
 We welcome everyone and are happy to assist you anytime!
 
-[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
 <img width="763" height="744" alt="Screenshot 2025-11-22 011108" src="https://github.com/user-attachments/assets/5f499543-7b15-4866-871e-419ebc41eb0a" />
+
+[← Back to main page](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
