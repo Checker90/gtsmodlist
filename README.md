@@ -2,5 +2,5 @@
 Gate to Stars, Starfield modlist.
 
 
-Hi! The full README and installation guide can be found here:
+The full README and installation guide can be found here:
 👉 [Full README](https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md)
