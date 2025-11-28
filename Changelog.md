@@ -14,6 +14,8 @@
 **(Release date: 2025-11-28)**  
 **Save-game safe**
 -Game version 1.15.222-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate to Stars\saves
 
 <details>
 
