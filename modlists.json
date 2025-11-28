@@ -25,20 +25,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Checker90/gtsmodlist/main/gatetostars.webp",
       "readme": "https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate%20to%20Stars.wabbajack_46cc544c-8582-4d54-91e6-dbcd23365ace",
+      "download": "https://authored-files.wabbajack.org/Gate%20to%20Stars.wabbajack_bc49d701-f98d-451e-a135-5794efc90c01",
       "machineURL": "GateToStars",
       "discordURL": "https://discord.com/invite/K2wxuVfeaF"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "azjhxBsspBM=",
+      "Hash": "sYM3bVX6dL8=",
       "Size": 76664014,
-      "NumberOfArchives": 879,
-      "SizeOfArchives": 192839436455,
-      "NumberOfInstalledFiles": 27640,
-      "SizeOfInstalledFiles": 202653165330
+      "NumberOfArchives": 912,
+      "SizeOfArchives": 193455550170,
+      "NumberOfInstalledFiles": 27890,
+      "SizeOfInstalledFiles": 203309048228
     },
-    "version": "0.9.9.6"
+    "version": "0.9.9.7"
   }
 ]
 
