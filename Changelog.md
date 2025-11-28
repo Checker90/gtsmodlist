@@ -2,8 +2,61 @@
 
 <details>
 
+* [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 0.9.9.7
+**(Release date: 2025-11-28)**  
+**Save-game safe**
+-Game version 1.15.222-
+
+<details>
+
+### Changelog
+* Updated a few mods
+* Added more patches
+* Fixed some minor issues.
+* Added scope optimization for both wide and ultrawide monitors.
+* Reduced the distance at which enemies can detect you
+* Fixed several underlying causes of potential crashes
+* Fixed glasses meshes that could cause crashes
+* Patched several additional mods
+* Fixed various minor issues
+
+### Added Mods
+* Starshake - Vizualized Recoil
+* Depleted Uranium Rounds
+* HopeTown expanded
+* Rabbit's Real Lights HopeTown
+* Rabbits's Real Lights HopeTown expanded
+* El Jefe Space Combat AI
+* VPCD Elevator
+* Starborn not Toddborn - Modular Spacesuit and buffed Guardian ship
+* Marked Landmark Books
+* 50 GS
+* Trees Rescaled
+* Aliens don't reflect damage
+* Another glow magazine mod
+* Aquarium Outpost Decoration
+* Faction Player Rooms
+* Drink Pack Redone
+* infinite Universes
+* Clear Glass for NAT 2.0 (fixed)
+* Vibrant Volcanic Biome
+* Vehicle Hazard Protection
+* Vasco - Reduced Footsteps Volume by Xtudo
+* Variable Contraband Prices - Redux
+* Stop Flailing While Falling
+* Stellar Blades
+
+### Removed Mods
+* No Legendary Pickup Notification
+* Takeoff Menu Recolor - Multiple Versions
 
 </details>
 
