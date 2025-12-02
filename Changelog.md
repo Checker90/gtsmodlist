@@ -2,9 +2,28 @@
 
 <details>
 
+* [Version 0.9.9.75](version-09975-hotfix-update)
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 0.9.9.75 Hotfix Update
+**(Release date: 2025-02-12)**  
+**Save-game safe**
+-Game version 1.15.222-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate to Stars\saves
+
+<details>
+
+### Changelog
+* Fixed HUD issues and restored StarfieldPrefs.ini to default settings
+* Disabled several optional mods, such as Killcam
+* Added minor fixes and tweaks
 
 </details>
 
