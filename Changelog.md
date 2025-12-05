@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 0.9.9.79](#version-09979)
 * [Version 0.9.9.75](version-09975-hotfix-update)
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
@@ -10,6 +11,31 @@
 </details>
 
 ---
+
+## Version 0.9.9.79
+**(Release date: 2025-05-12)**  
+**Save-game safe**
+-Game version 1.15.222-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate to Stars\saves
+
+<details>
+
+### Changelog
+* Improved planetary density slightly beyond vanilla
+* Combined several weather mods and patched conflicts
+* Starfield now features a huge variety of weathers that occur organically
+
+### Added Mods
+* Royal Weathers
+* Renegade Armor - Peacekeeper
+* More Lore - Kreet Research Lab
+* More Lore - Nova Galactic Staryard
+* Pytheas System
+* Heller Had A Shower CLEAN Version
+* Supervisor Lin Clean
+
+</details>
 
 ## Version 0.9.9.75 Hotfix Update
 **(Release date: 2025-02-12)**  
