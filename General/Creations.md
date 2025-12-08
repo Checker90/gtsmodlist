@@ -21,7 +21,7 @@ This list is provided solely for informational purposes, so if you already own a
 (List of all tested PAID Creations)
 
 - [McClarence Outfitters: Legendary Customization](https://creations.bethesda.net/en/starfield/details/d4f5c6a2-ea4f-4f74-b338-6403c5717ec0/McClarence_Outfitters__Legendary_Customization)  - by kinggath_creations (patch not required)
-- [Falkland Systems Ship Services](https://creations.bethesda.net/en/starfield/details/6cbf2c64-b736-4d95-bf06-38183a94b359/Falkland_Systems_Ship_Services/history) - by HjaImere (([Required patches, click here](https://github.com/Checker90/gtsmodlist/blob/main/General/Falkland%20Systems%20Ship%20Services.md))
+- [Falkland Systems Ship Services](https://creations.bethesda.net/en/starfield/details/6cbf2c64-b736-4d95-bf06-38183a94b359/Falkland_Systems_Ship_Services/history) - by HjaImere (([Required patches, click here](https://github.com/Checker90/gtsmodlist/blob/main/General/Falkland%20Systems%20Ship%20Services%20Patches.md))
 
 - This page is a work in progress and will be updated continuously over time as more Creations are tested with GATE TO STARS.
 
