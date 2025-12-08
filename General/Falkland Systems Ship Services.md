@@ -13,5 +13,6 @@ Download and install all patches in the order shown.
 
 1. [NAA-Falkland PATCH](https://creations.bethesda.net/en/starfield/details/3d270948-af86-4a75-9a2b-a05259e2d5df/NAA_Falkland_PATCH) - This is a patch for Falkland Systems Ship Services and New Atlantis Awaits.
 2. [Ship Builder Configurator Extension - Falkland](https://creations.bethesda.net/en/starfield/details/5c14fbe1-f0ed-412a-b811-f30827abcbe0/Ship_Builder_Configurator_Extension___Falkland) - Integrates the Ship Services management operations of Ship Builder Configurator with the Ship Service Techs and Ship Modules defined in the Falkland System Ship Services
+3. [SVF Capability Patch - Falkland Systems](https://creations.bethesda.net/en/starfield/details/5fbcd0ba-bb3d-41c7-846b-daa8e3f1b813/SVF_Capability_Patch___Falkland_Systems) - Optional
 
 [[← Back to Creations page]](https://github.com/Checker90/gtsmodlist/blob/main/General/Creations.md)
