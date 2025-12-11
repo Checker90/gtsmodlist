@@ -3,7 +3,7 @@ Watchtower: Orbital.Strike\\Fleet.Command — Required Patches
 
 This page lists all patches required to ensure full compatibility between Watchtower and the GATE TO STARS collection.
 
-The patches below resolve plugin conflicts, form list overwrites, ship vendor issues, and ensure that Falkland integrates smoothly into the overall ecosystem of the collection.
+The patches below resolve plugin conflicts...
 ---
 
 📌 Required Patches
