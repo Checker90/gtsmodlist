@@ -24,8 +24,12 @@ profiles\Starfield Premium Edition\saves
 
 ### Changelog
 
-
-### Added Mods
+* Complete rebuild of the list with a strong focus on stability
+* Many mods from previous versions have been temporarily removed and will be reintroduced over time after proper testing
+* Added numerous quality-of-life improvements
+* Improved overall performance, along with enhanced lighting and significantly better visuals
+* Refined load order for better compatibility and consistency
+* General fixes and optimizations across the entire setup
 
 
 
