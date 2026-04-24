@@ -21,7 +21,7 @@ The list includes custom profile folders, each containing pre-made StarfieldCust
 * You should have at least 300GB of free space available for the installation.
 After the list is fully installed, you can safely delete the Downloads folder to free up additional space.
 …but keep in mind that with the next update, you will need to download everything from scratch again.
-* Shattered Space DLC is required, the installation cannot complete without it.
+* Shattered Space and Terran Armada DLC is required, the installation cannot complete without it.
 
 **Recommended:**
 
