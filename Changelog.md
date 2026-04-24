@@ -18,7 +18,7 @@
 **Initial release v1.0**
 -Game version 1.16.236-
 * Before updating, make a backup of your save games. They can be found in:
-profiles\Gate to Stars\saves
+profiles\Starfield Premium Edition\saves
 
 <details>
 
