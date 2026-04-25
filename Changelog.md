@@ -2,12 +2,43 @@
 
 <details>
 
+* [Version 1.0.0.12](#version-100128)
 * [Version 1.0.0.12](#version-10012)
 * [Version 0.9.9.79](#version-09979)
 * [Version 0.9.9.75](version-09975-hotfix-update)
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.0.128
+**(Release date: 2026-04-25)**  
+**Save-game safe**
+-Game version 1.16.236-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+* Added additional patches and fixes
+* Updated multiple mods
+* Improved overall optimization and performance
+* Minor load order adjustments for better stability
+* Tweaked game difficulty for a more balanced experience
+* Increased overall difficulty
+* Enemy AI is now more aggressive
+* General stability improvements and bug fixes
+
+### Added Mods
+* TN's Earth's Biomes
+* RTM's Engine Trail Fix
+* Weapon Swap Stutter Fix
+* TN's Fast Travel Control
+
 
 </details>
 
