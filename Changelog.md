@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.0.216](#version-100216)
 * [Version 1.0.0.12](#version-100128)
 * [Version 1.0.0.12](#version-10012)
 * [Version 0.9.9.79](#version-09979)
@@ -9,6 +10,39 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.0.216
+**(Release date: 2026-04-28)**  
+**Save-game safe**
+-Game version 1.16.236-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+* Added new separator: ─ Disabled Mods ─ for optional toggleable mods
+* Some textures packed into BA2 archives for optimization
+* Disabled ClickLight – Highlight Objects Clicked in Console (could cause orange hands/weapons issue)
+* Disabled Immersive Ship Battles due to crash reports (can be re-enabled if stable on your setup)
+* Added minor gameplay tweaks
+* Several stability improvements and crash-related fixes
+* Lighting tweaks implemented to address reported contrast issues
+
+### Added Mods
+* Anchorpoint Expanded
+* Va’ruun Vendors
+* Baseball Caps Collection – NASA and Old Earth Fashion Logos
+* Red Mile Blackjack Table
+* Rocks – A GRiNDTerra Mini Mod
+* Fauna – A GRiNDTerra Mini Mod
+* Enhanced Sona
+* Integrated Ship Optimization Terminal
+
 
 </details>
 
