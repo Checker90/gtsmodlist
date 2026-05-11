@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Gate to Stars",
-    "description": "GATE TO STARS is a carefully crafted, fully integrated collection designed to unlock Starfield’s true potential. Every element has been thoughtfully refined — performance, visuals, gameplay, and immersion, creating a seamless, stable, and deeply engaging experience. Requires Starfield Premium Edition",
+    "description": "GATE TO STARS is a carefully crafted, fully integrated collection designed to unlock Starfield’s true potential. Every element has been thoughtfully refined, performance, visuals, gameplay, and immersion, creating a seamless, stable, and deeply engaging experience. Requires Starfield Premium Edition",
     "author": "Checker90",
     "maintainers": [
       "github/Checker90",
@@ -25,20 +25,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Checker90/gtsmodlist/main/gatetostars1200.webp",
       "readme": "https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/GTSpremium.wabbajack_6ef06a8e-ffd1-4390-bc0b-6481b71d1011",
+      "download": "https://authored-files.wabbajack.org/GTSpremium.wabbajack_9e362ec6-d8f4-49da-880e-a65386292d5c",
       "machineURL": "GateToStars",
       "discordURL": "https://discord.com/invite/K2wxuVfeaF"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "MM2PN7DlWwY=",
-      "Size": 193837749,
-      "NumberOfArchives": 788,
-      "SizeOfArchives": 199405267220,
-      "NumberOfInstalledFiles": 10099,
-      "SizeOfInstalledFiles": 202836620005
+      "Hash": "9yCyvNGVltc=",
+      "Size": 173852949,
+      "NumberOfArchives": 812,
+      "SizeOfArchives": 200405598920,
+      "NumberOfInstalledFiles": 10180,
+      "SizeOfInstalledFiles": 203838776173
     },
-    "version": "1.0.0.216"
+    "version": "1.0.0.450"
   }
 ]
 
