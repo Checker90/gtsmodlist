@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.0.450](#version-100450)
 * [Version 1.0.0.216](#version-100216)
 * [Version 1.0.0.12](#version-100128)
 * [Version 1.0.0.12](#version-10012)
@@ -10,6 +11,51 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.0.450
+**(Release date: 2026-05-11)**  
+**Save-game safe**
+-Game version 1.16.236-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* Adjusted body weight mechanics so player weight gain and loss now occurs much more slowly.
+* Mods that significantly alter body weight have been disabled and moved to the DISABLED MODS – Optional separator.
+* Updated numerous mods to their latest versions.
+* Added multiple new patches and fixes.
+* Implemented additional overall gameplay and stability improvements.
+* Fine-tuned the load order to help prevent certain crashes.
+* Removed xEdit from the installation. If you use xEdit and wish to preserve your current setup, please create a backup before updating.
+* Added Roleplayers' Alternate Start. This mod is fully safe to install and will not affect existing save files.
+* Fixed compatibility with Legendary Module Recycler.
+
+**Note: The Legendary Module Recycler fix is not retroactive. Existing recyclers must be scrapped and rebuilt for the fix to take effect.**
+
+### Added Mods
+* Camera Noise
+* EIT Clothiers Plus
+* Craftable Primers and Diodes
+* Condensation on Glass
+* HBI Breakables
+* Disk Cache Enabler Updated
+* Shape Casting BGS Vehicles AIO
+* Laser Sights Only When Aiming
+* Compact Build Menu
+* Compact Crafting UI
+* Friendly Familiars – A GRiNDTerra Pets Mod
+* Roleplayers' Alternate Start
+
+### Removed Mods
+* Investment – NEW Social Perk
 
 </details>
 
