@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.0.521](#version-100521)
 * [Version 1.0.0.450](#version-100450)
 * [Version 1.0.0.216](#version-100216)
 * [Version 1.0.0.12](#version-100128)
@@ -11,6 +12,27 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.0.521
+**(Release date: 2026-05-16)**  
+**Save-game safe**
+-Game version 1.16.242-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* Updated numerous mods for compatibility with the latest version of Starfield.
+* Some mods have not yet been updated by their authors. The list will be updated again as soon as those updates become available.
+* Ultrawide support is currently not working and will be restored in a future update.
+
 
 </details>
 
