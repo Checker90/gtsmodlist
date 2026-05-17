@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.0.741](#version-100741)
 * [Version 1.0.0.522](#version-100522)
 * [Version 1.0.0.521](#version-100521)
 * [Version 1.0.0.450](#version-100450)
@@ -13,6 +14,29 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.0.741
+**(Release date: 2026-05-17)**  
+**Save-game safe**
+-Game version 1.16.242-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* Slightly adjusted load order.
+* Fixed the economy.
+* Added fixes and updated all mods for compatibility with the latest version of Starfield.
+* Special attention was given to potential crash-causing issues.
+* Patched several inconsistencies.
+* General improvements and optimizations.
 
 </details>
 
