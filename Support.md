@@ -8,7 +8,7 @@ You can join the community at any time to:
 * Get tips and tricks for using the collection
 * Share feedback or suggestions
 
-Join the Discord here: [Click to join Discord](https://discord.com/invite/K2wxuVfeaF)
+Join the Discord here: [Click to join Discord](https://discord.gg/gate-to-stars)
 
 We welcome everyone and are happy to assist you anytime!
 
