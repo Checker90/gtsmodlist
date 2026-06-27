@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.1.151](#version-101151)
 * [Version 1.0.0.741](#version-100741)
 * [Version 1.0.0.522](#version-100522)
 * [Version 1.0.0.521](#version-100521)
@@ -14,6 +15,49 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.1.151
+**(Release date: 2026-06-28)**  
+**Save compatibility: Unconfirmed. This version has not been sufficiently tested. There is a higher chance that it is not compatible with saves from previous versions.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* The list has been rebuilt from the ground up.
+* Countless small changes have been made, too many to include in the changelog.
+
+ ----------- **REMOVED MODS** ---------------
+* Concept Art Akila
+* Better Outpost Radius
+* Beefy Skills
+* Defense Depot
+* Assault Accelerant
+* Arsenal
+* Kenjutsu
+* Combined Arms Mastery - NEW Standalone Perk
+* NEW Perk - Home Team
+
+  -----------**ADDED MODS**--------------
+* Formless Skill Tree Redesigned
+* Hatch-22 - Simple Ship Doors
+* Project Rework - Akila
+* Project Rework - Pluto
+* Rabbit's Real Lights Paradiso
+* Crevasse Field - Biome Visual Transformation
+* Item Card Colors
+* Drink From Sinks
+* Outpost Beacon Override
+
 
 </details>
 
