@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.1.213](#version-101213)
 * [Version 1.0.1.151](#version-101151)
 * [Version 1.0.0.741](#version-100741)
 * [Version 1.0.0.522](#version-100522)
@@ -15,6 +16,31 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.1.213
+**(Release date: 2026-07-04)**  
+**Save safe with the previous GTS version.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Hotfix Changelog
+**General Changes**
+
+* Added HUD presets.
+* Added Planet Data patches.
+
+**Removed**
+
+* Item Card Colors.
+
 
 </details>
 
