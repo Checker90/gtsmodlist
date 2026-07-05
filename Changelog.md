@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.1.411](#version-101411)
 * [Version 1.0.1.213](#version-101213)
 * [Version 1.0.1.151](#version-101151)
 * [Version 1.0.0.741](#version-100741)
@@ -16,6 +17,48 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.1.411
+**(Release date: 2026-07-05)**  
+**Save safe with the previous GTS version.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Starfield Premium Edition\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* Several subtle gameplay tweaks.
+* Added more patches and slightly adjusted the load order.
+
+**Removed**
+
+* Faction Requisition Kiosks
+* Kreet Pirate Items and Resources
+
+**Added**
+
+* Rabbit's Real Lights – Anchorpoint
+* Acculander Thruster Fix
+* Wild Coasts – Biome Visual Transformation
+* CGFNCCFFCITYA
+* Capital Planet Desktop Globes
+* Change Your Outfit
+* Cleaner Porthole Glass – Updated
+* Crimson Gang Van (Standalone)
+* Enhanced Subtitles
+* Enhanced Presets
+* Enhanced Dialogue Interface
+* Galactic Mesh Fixes
+* Realistic Sun Disk Size
+* StarUI Configurator
 
 </details>
 
