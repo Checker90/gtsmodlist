@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Gate to Stars",
-    "description": "GATE TO STARS is a carefully crafted, fully integrated collection designed to unlock Starfield’s true potential. Every element has been thoughtfully refined, performance, visuals, gameplay, and immersion, creating a seamless, stable, and deeply engaging experience. Requires Starfield Premium Edition",
+    "description": "GATE TO STARS is a carefully crafted, fully integrated collection designed to unlock Starfield’s true potential. Every element has been thoughtfully refined—performance, visuals, gameplay, and immersion—while remaining true to Bethesda's original vision. The goal is to enhance Starfield, not replace it. Requires Starfield Premium Edition.",
     "author": "Checker90",
     "maintainers": [
       "github/Checker90",
@@ -19,26 +19,26 @@
       "Survival"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Checker90/gtsmodlist/main/gatetostars1200.webp",
       "readme": "https://github.com/Ry-Squid/Gate-To-Stars/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Gate%20To%20Stars.wabbajack_8b3b7f17-3128-4810-931e-af324e4230b2",
+      "download": "https://authored-files.wabbajack.org/Gate%20To%20Stars.wabbajack_3137a20d-eec0-41c4-9ce1-0390f19a052f",
       "machineURL": "GateToStars",
       "discordURL": "https://discord.com/invite/gate-to-stars"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "lqme79pInc4=",
-      "Size": 198828436,
-      "NumberOfArchives": 812,
-      "SizeOfArchives": 191406325743,
-      "NumberOfInstalledFiles": 10443,
-      "SizeOfInstalledFiles": 195498517081
+      "Hash": "lBGzxSL1iuM=",
+      "Size": 198868995,
+      "NumberOfArchives": 826,
+      "SizeOfArchives": 192481080714,
+      "NumberOfInstalledFiles": 17392,
+      "SizeOfInstalledFiles": 196595954483
     },
-    "version": "1.0.1.213"
+    "version": "1.0.1.411"
   }
 ]
 
