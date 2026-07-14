@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.1.833](#version-101833)
 * [Version 1.0.1.411](#version-101411)
 * [Version 1.0.1.213](#version-101213)
 * [Version 1.0.1.151](#version-101151)
@@ -17,6 +18,41 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.1.833
+**(Release date: 2026-07-14)**  
+**Save safe with the previous GTS version.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate To Stars Origin\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* Added several new patches to improve world consistency and compatibility between multiple mods.
+* Fixed an issue that could cause NPCs to disappear. The fix works best on a new game or after passing through Unity, but many players should also notice missing NPCs returning on existing saves.
+* Restored Fast Travel settings to the default (vanilla) configuration to provide a more newcomer-friendly experience. If you prefer restricted Fast Travel, you can re-enable it at any time through the Gameplay Settings menu.
+* Updated several existing mods and added new ones (see the list below).
+* Numerous general fixes, optimizations, and overall stability improvements throughout the modlist.
+
+**Added**
+
+* Gallion - Immersive Finance
+* Armillary Remeshed and Retextured
+* Slightly Better UC Security Office
+* Aquafield - a GRiNDTerra Mod
+* Amber Shade - Starborn Elite Crew Companion
+* Infiltrator 2 - Spacesuit Outfit and Weapon
+* ENHANCE UC Military Uniform Skirts
+* ENHANCE Outfits - Tank Tops and Mini Skirts
+* CJ's Store Improved
 
 </details>
 
