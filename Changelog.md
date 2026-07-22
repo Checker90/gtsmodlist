@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.2.104](#version-102104)
 * [Version 1.0.1.833](#version-101833)
 * [Version 1.0.1.411](#version-101411)
 * [Version 1.0.1.213](#version-101213)
@@ -18,6 +19,40 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.2.104
+**(Release date: 2026-07-22)**  
+**Save safe with the previous GTS version.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate To Stars Origin\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* Added new fixes and several additional patches to improve overall compatibility.
+* Focused on improving list stability and reducing potential issues.
+* Unpacked several BA2 archives to help reduce BA2 limit pressure.
+* Potentially fixed a crash issue related to Trackers Alliance: The Complete Bounty Series.
+* Added several subtle tweaks to improve player movement and responsiveness.
+* General stability and performance improvements.
+* Fixed issues related to spacesuit hiding and gameplay settings.
+
+**Added**
+
+* Void Drinker
+* True Seamless Grav Jumps
+* Seamless Planet Takeoffs
+* OSF UI
+* X-2357's Starcade OS
+
 
 </details>
 
