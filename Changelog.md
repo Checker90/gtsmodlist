@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.2.116](#version-102116)
 * [Version 1.0.2.104](#version-102104)
 * [Version 1.0.1.833](#version-101833)
 * [Version 1.0.1.411](#version-101411)
@@ -19,6 +20,34 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.2.116
+**(Release date: 2026-08-07)**  
+**Save safe with the previous GTS version.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate To Stars Origin\saves
+
+<details>
+
+### Changelog
+**General Changes**
+
+* This update focuses heavily on improving overall list performance, with noticeable improvements to stability, responsiveness, and gameplay smoothness.
+* General performance improvements and optimizations.
+* Female characters now have underwear when clothing is removed, matching the behavior already present for male characters.
+
+**Added**
+
+* Pause Menu Lag Fix
+* Faster Cell Lookup
+* Cruise Navigation Panel
+
 
 </details>
 
