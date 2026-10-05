@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.3.841](#version-103841)
 * [Version 1.0.2.116](#version-102116)
 * [Version 1.0.2.104](#version-102104)
 * [Version 1.0.1.833](#version-101833)
@@ -20,6 +21,80 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+</details>
+
+---
+
+## Version 1.0.3.841
+**(Release date: 2026-10-05)**  
+**Save Compatibility: Previous GTS version saves should be compatible with this update, but this has not been fully tested. We recommend starting a new save if possible..**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate To Stars Origin\saves
+
+<details>
+
+### Changelog
+**General Changes & Improvements**
+
+* General performance improvements across the list.
+* HUD presets are now disabled by default, allowing you to choose the preset you prefer.
+* Fixed numerous inconsistencies and improved overall compatibility with other mods.
+* Fixed an issue where some Crimson Fleet pirates could appear naked.
+* Fixed an issue affecting the Temple quest. This has been tested locally, but further confirmation from other players is still needed.
+* Numerous gameplay tweaks and quality-of-life improvements throughout the list.
+* Fixed several small issues that could potentially cause certain quests to break or behave incorrectly.
+* Load Order has been significantly tweaked to reduce conflicts and improve overall stability.
+* Various compatibility fixes, patches, and adjustments have been made to existing mods.
+* Improved the overall stability, consistency, and quality of the modlist.
+* Several previously overlooked conflicts and minor issues have been addressed.
+* Numerous smaller fixes and adjustments have been made throughout the list that are difficult to list individually.
+* And, as always, many more small changes, tweaks, fixes, and improvements that I probably forgot to write down. 😅
+
+**DLSS 5 Neural Rendering**
+
+**DLSS 5 Neural Rendering is now officially included in Gate to Stars as an optional mod.**
+
+* Disabled by default.
+Available for RTX 30, RTX 40, and RTX 50 series GPUs.
+Can be enabled or disabled according to your preference.
+The required setup is already integrated into the list, so there is no additional manual setup required once enabled.
+Keep in mind that performance and compatibility may vary depending on your GPU and the specific DLSS 5 version being used.
+
+**New Mods Added**
+The following mods have been added to Gate to Stars:
+
+* X2357's Faction Weapon Skins
+* Immersive Play - Usable Toilets and Coffee Machines
+* Unlockable Max Rank Skill Posters
+* Toggle Dialogue Camera
+* TERRABREW - CLASSICAL PIANO AND LOCAL ADS
+* Slightly Better Shepherd's Store
+* Ship Colorize Redux
+* Real Jobs - TerraBrew
+* Real Jobs - Cydonia Mining Company
+* NPC Routines Expanded
+* Books Are Books
+* Luma - Native HDR and more
+* KZ Mantis 2.0
+* Immersive Play - fabs1's Planet Descriptions
+* …and many other smaller additions, fixes, compatibility patches, and quality-of-life improvements.
+
+**Under the Hood**
+
+* Mod interactions and conflicts were reviewed and adjusted.
+* Load Order was refined to improve compatibility.
+* Existing patches were reviewed and updated where necessary.
+* Various small issues discovered during testing were fixed.
+* Additional compatibility tweaks were added.
+* Several areas of the list were cleaned up and optimized.
+* General stability and consistency were improved across the entire setup.
+
+**There are a lot more small changes than what's listed here, after spending so much time fixing things, I honestly didn't manage to keep track of every single tweak.** 😂
+
+Enjoy the new version, and as always, thank you for the continued support! ❤️
 
 </details>
 
