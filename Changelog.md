@@ -2,6 +2,7 @@
 
 <details>
 
+* [Version 1.0.4.705](#version-104705)
 * [Version 1.0.3.841](#version-103841)
 * [Version 1.0.2.116](#version-102116)
 * [Version 1.0.2.104](#version-102104)
@@ -21,6 +22,61 @@
 * [Version 0.9.9.7](#version-0997)
 * [Version 0.9.9.6](#version-0996)
 * [Version 0.9.9.5](#version-0995)
+
+
+</details>
+
+---
+
+## Version 1.0.4.705
+**(Release date: 2026-10-17)**  
+**Save safe with the previous GTS version.**
+
+-Game version 1.16.244-
+* Before updating, make a backup of your save games. They can be found in:
+profiles\Gate To Stars Origin\saves
+
+<details>
+
+### Changelog Visual Overhaul & Stability Update
+**General Changes**
+
+* DLSS 5 Neural Rendering: Updated files provide improved stability and up to 20% better performance.
+* StarfieldPrefs.ini: Now included in the modlist. After installation, please review and adjust your in-game settings to your personal preference.
+* Stability Improvements: Extensive fixes and optimizations across the entire modlist for a smoother and more reliable experience.
+* Visual Overhaul: Significantly improved world details, including much better ground and terrain visuals, adding depth and detail to the environments.
+* Luma HDR / DLSS 5 Options: Luma HDR is now disabled by default. Players can choose between Luma HDR, DLSS 5 Neural Rendering, or neither, according to their preferences.
+* Updated Mods: Numerous mods have been updated to their latest versions while maintaining compatibility with existing saves from the previous version.
+* Additional Tweaks & Patches: Numerous smaller adjustments, compatibility fixes, and carefully selected patches to further refine the overall experience.
+
+**New Mods Added**
+The following mods have been added to Gate to Stars:
+
+* EXTRA – Long Eyelash
+* VCO – Vitruvian Character Overhaul
+* HQWorld – Starfield
+* Starshake – Visualized Recoil
+* No More Dead Eyed Crowd NPCs
+* Spacesuits Redone
+* StarUI Inventory
+* True Space
+* New Homestead – New Dawn
+* Hair Booster Pack
+And many more smaller improvements, tweaks, and compatibility patches.
+
+**Removed Mods**
+
+* Neon – Distant Platforms — Removed due to crashes reported on some systems.
+Credit: Nikita
+
+**Final Notes**
+
+* This update focuses on improving visual quality, DLSS 5 performance, and overall stability while preserving compatibility with existing saves.
+As always, thank you for playing Gate to Stars and for your continued support!
+
+**Known Issues**
+
+* Hatch-22: This mod may cause issues with ship cockpits and ladders. If you experience any related problems, simply disable the mod in MO2. If everything works as expected, you can leave it enabled.
 
 </details>
 
