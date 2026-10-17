@@ -62,7 +62,7 @@ The following mods have been added to Gate to Stars:
 * True Space
 * New Homestead – New Dawn
 * Hair Booster Pack
-And many more smaller improvements, tweaks, and compatibility patches.
+     * And many more smaller improvements, tweaks, and compatibility patches.
 
 **Removed Mods**
 
